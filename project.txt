@@ -1,0 +1,17 @@
+Project that will allow users to keep track of there progress while doing 100 days of code 
+Project should intergrate Twitters API to make a post to the twitter users profile with the hashtag #100daysofCode
+Structure the project from front to back-end!
+Divide the project to optomize your schedule
+Create  a basic CRUD system for users to create and display their daily challenges 
+Use either bootstap or material UI for the front end
+Use validations 
+
+
+Backlog:
+     Work on test the Twitter API 
+     Intergrate Stream of Users tweets while on the dashboard 
+     Be able to login to the app with the users twitter account 
+
+
+
+
